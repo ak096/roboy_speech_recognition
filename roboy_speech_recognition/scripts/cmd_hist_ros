@@ -1,0 +1,1000 @@
+ 1019  ls
+ 1020  cd opt/
+ 1021  ls
+ 1022  sudo rm pycharm-community-2017.3.4/
+ 1023  sudo rm -rf pycharm-community-2017.3.4/
+ 1024  ls
+ 1025  cd ~/Downloads/
+ 1026  sudo tar xzf pycharm-community-2017.3.4.tar.gz -C /opt/
+ 1027  cd /opt/pycharm-community-2017.3.4/bin
+ 1028  pycharm.sh
+ 1029  ls
+ 1030  pycharm.sh
+ 1031  ./pycharm.sh 
+ 1032  rqt_plot
+ 1033  rqt
+ 1034  cd Downloads/clion-2017.3.2/
+ 1035  cd ..
+ 1036  ls
+ 1037  charm
+ 1038  sudo apt info charm
+ 1039  pycharm-professional 
+ 1040  ls
+ 1041  sudo rm -rf clion-2017.3.2/
+ 1042  sudo rm CLion-2017.3.2.tar.gz 
+ 1043  pycharm
+ 1044  clion
+ 1045  sudo rm -rf /opt/pycharm-community-2017.3.4/
+ 1046  cd /opt/
+ 1047  ls
+ 1048  cd ..
+ 1049  cd ~/Downloads
+ 1050  ls
+ 1051  sudo rm -rf pycharm-community-2017.3.4
+ 1052  sudo rm CLion-2017.3.4.tar.gz
+ 1053  ls
+ 1054  sudo rm pycharm-community-2017.3.4.tar.gz 
+ 1055  sudo rm pycharm-professional-2017.3.4.tar.gz 
+ 1056  ls
+ 1057  rqt
+ 1058  cle-kill
+ 1059  cle-nginx
+ 1060  cle-start
+ 1061  cd /home/akshay/Documents/NRP/GazeboRosPackages/
+ 1062  catkin_make
+ 1063  cle-frontend
+ 1064  grep std_msgs
+ 1065  python
+ 1066  top
+ 1067  rqt
+ 1068  rqt
+ 1069  rostopic list
+ 1070  rostopic echo /gazebo/link_states/pose[86]/orientation.x
+ 1071  rostopic echo /gazebo/link_states/pose[86]/orientation/x
+ 1072  rostopic echo /gazebo/link_states/pose[85]/orientation/x
+ 1073  rostopic echo /gazebo/link_states/pose[86]/position
+ 1074  rostopic echo /gazebo/link_states/pose[86]/orientation
+ 1075  rostopic echo /gazebo/link_states/pose[86]/Orientation
+ 1076  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 1.0" 
+ 1077  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 0.0" 
+ 1078  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0.8" 
+ 1079  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0" 
+ 1080  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 1.0" 
+ 1081  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 0" 
+ 1082  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0.8" 
+ 1083  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 1.0" 
+ 1084  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0.6" 
+ 1085  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0.4" 
+ 1086  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0.0" 
+ 1087  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 0.0" 
+ 1088  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 1.0" 
+ 1089  rqt_plot
+ 1090  cd $HBP
+ 1091  cd Experiments/myoarm_nst_rl/
+ 1092  grep -r "Float64" .
+ 1093  cd ..
+ 1094  grep -r "Float64" .
+ 1095  grep -r "Float64" "import" .
+ 1096  grep -r "Float64" &" import" .
+ 1097  grep -r "Float64" && "import" .
+ 1098  grep -r "Float64" .
+ 1099  rqt_plot
+ 1100  grep -r "/link_states" .
+ 1101  cle-nginx
+ 1102  cle-start
+ 1103  python
+ 1104  import keras-rl
+ 1105  python
+ 1106  ipython
+ 1107  pip list
+ 1108  python
+ 1109  deactivate
+ 1110  rqt_plot
+ 1111  cd $HBP
+ 1112  cd GazeboRosPackages/
+ 1113  catkin_make
+ 1114  cd /home/akshay/Documents/NRP/Experiments
+ 1115  grep -r "import numpy" .
+ 1116  grep -r "import geometry" .
+ 1117  grep -r "JointState" .
+ 1118  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 0.7" 
+ 1119  rostopic pub /gazebo_muscle_interface/robot/left_bottom/cmd_activation std_msgs/Float64 "data: 0.0" 
+ 1120  rostopic pub /gazebo_muscle_interface/robot/leright-bottom/cmd_activation std_msgs/Float64 "data: 0.7" 
+ 1121  rostopic pub /gazebo_muscle_interface/robot/right_bottom/cmd_activation std_msgs/Float64 "data: 0.7" 
+ 1122  cd $HBP
+ 1123  cd Experiments
+ 1124  grep -r "@nrp.MapRobotPublisher" .
+ 1125  python
+ 1126  cle-frontend
+ 1127  cle-nginx
+ 1128  cle-start
+ 1129  cle-kill
+ 1130  cle-nginx
+ 1131  cle-start
+ 1132  cle-kill
+ 1133  cle-nginx
+ 1134  cle-start
+ 1135  cle-kill
+ 1136  cle-nginx
+ 1137  cle-start
+ 1138  cle-kill
+ 1139  cle-nginx
+ 1140  cle-start
+ 1141  cle-kill
+ 1142  cle-nginx
+ 1143  cle-start
+ 1144  cle0kill
+ 1145  cle-kill
+ 1146  cle-nginx
+ 1147  cle-start
+ 1148  cle-kill
+ 1149  cle-nginx
+ 1150  cle-start
+ 1151  cle-kill
+ 1152  cle-start
+ 1153  cle-kill
+ 1154  cle-nginx
+ 1155  cle-start
+ 1156  cle-kill
+ 1157  cle-start
+ 1158  cle-kill
+ 1159  cle-nginx
+ 1160  cle-start
+ 1161  cle-kill
+ 1162  cle-nginx
+ 1163  cle-start
+ 1164  cle-kill
+ 1165  cle-frontend
+ 1166  cd $HBP
+ 1167  CLE/
+ 1168  ls
+ 1169  cd CLE/
+ 1170  ls
+ 1171  cd hbp_nrp_cle/
+ 1172  ls
+ 1173  cd hbp_nrp_cle
+ 1174  ls
+ 1175  cd ..
+ 1176  cd cle
+ 1177  ls
+ 1178  cd hbp_nrp_cle
+ 1179  cd cle/
+ 1180  ls
+ 1181  ks
+ 1182  ls
+ 1183  rostopic list
+ 1184  rostopic echo /ros_cle_simulation/status
+ 1185  cle-nginx
+ 1186  cle-start
+ 1187  cle-kill
+ 1188  cle-ngin
+ 1189  cle-nginx
+ 1190  cle-start
+ 1191  cle-kill
+ 1192  cle-frontend
+ 1193  rqt
+ 1194  cle-frontend
+ 1195  cd $HBP
+ 1196  cd user-scripts/
+ 1197  ./update_nrp update all
+ 1198  pip install --upgrade pip
+ 1199  sudo pip install --upgrade pip
+ 1200  ./update_nrp update all
+ 1201  cle-nginx
+ 1202  cle-start
+ 1203  cd /home/akshay/Documents/NRP/GazeboRosPackages/1
+ 1204  cd /home/akshay/Documents/NRP/GazeboRosPackages/
+ 1205  catkin_make
+ 1206  cle-nginx
+ 1207  cle-start
+ 1208  cle-frontend
+ 1209  cle-nginx
+ 1210  cle-start
+ 1211  cle-kil
+ 1212  cle-kill
+ 1213  cle-nginx
+ 1214  cle-start
+ 1215  rostopic list
+ 1216  rostopic echo /jointstates
+ 1217  rostopic echo /jointState /
+ 1218  rostopic echo /jointState
+ 1219  cd /home/akshay/Documents/NRP/GazeboRosPackages/
+ 1220  catkin_make
+ 1221  rostopic list
+ 1222  rostopic /jointState
+ 1223  rostopic echo /jointState
+ 1224  source devel/setup.bash 
+ 1225  rosrun gazebo_ros gazebo
+ 1226  cle-nginx
+ 1227  cle-start
+ 1228  cle-frontend
+ 1229  cd /home/akshay/Documents/NRP/GazeboRosPackages/
+ 1230  catkin_make
+ 1231  source devel/setup.bash
+ 1232  cd ~/.gazebo/models/
+ 1233  ls
+ 1234  cd myoarm_nst
+ 1235  ls
+ 1236  gedit model.sdf 
+ 1237  ls
+ 1238  gedit model.config
+ 1239  cd ..
+ 1240  cd .
+ 1241  cd ..
+ 1242  cd $HBP
+ 1243  cd GazeboRosPackages/
+ 1244  catkin_make install
+ 1245  cd ..
+ 1246  mbpfan 
+ 1247  sudo mbpfan
+ 1248  cd ~/.opt/platform_venv/
+ 1249  ls
+ 1250  gedit new-pip.txt 
+ 1251  source bin/activate
+ 1252  pip install --upgrade pip
+ 1253  pip install pip
+ 1254  $PYTHONPATH
+ 1255  gedit .bashrc
+ 1256  cd ~/.opt/platform_venv/
+ 1257  source bin/activate
+ 1258  $PYTHONPATH
+ 1259  pip uninstall pip
+ 1260  pip fix-user-path
+ 1261  cd $HBP
+ 1262  cd user-scripts/
+ 1263  pip install config
+ 1264  cmake --version
+ 1265  apt list --installed | grep cmake
+ 1266  ./update_nrp update all
+ 1267  cd ~/.opt/platform_venv/
+ 1268  source bin/activate
+ 1269  ls
+ 1270  pip
+ 1271  pip fix-user-path
+ 1272  pip
+ 1273  echo bin_user
+ 1274  echo
+ 1275  easy_install
+ 1276  easy_install --upgrade pip
+ 1277  pip install --upgrade pip
+ 1278  pip
+ 1279  pip install --upgrade pip
+ 1280  pip list
+ 1281  deactiave
+ 1282  deactivate
+ 1283  cd ..
+ 1284  cd $HBP
+ 1285  cd user-scripts/
+ 1286  ./update_nrp build all
+ 1287  cd /home/akshay/Documents/NRP/ExDBackend/platform_venv
+ 1288  source bin/activate
+ 1289  pip
+ 1290  cd ~/.opt
+ 1291  cd ..
+ 1292  pip
+ 1293  pip install --upgrade pip
+ 1294  pip
+ 1295  easy_install upgrade pip
+ 1296  easy_install --upgrade pip
+ 1297  deactivate
+ 1298  pip
+ 1299  sudo apt install python-pi
+ 1300  sudo apt install python-pip
+ 1301  pip
+ 1302  sudo apt-get remove python-pip
+ 1303  cd /home/akshay/Documents/NRP/ExperimentControl/platform_venv
+ 1304  source bin/activate
+ 1305  pip
+ 1306  pip uninstall pip
+ 1307  pip install --user --upgrade pip
+ 1308  easy_install --upgrade pip
+ 1309  pip install --upgrade pip
+ 1310  pip install argparse
+ 1311  pip uninstall pip
+ 1312  pip install --upgrade pip
+ 1313  deactivate
+ 1314  cd /home/akshay/Documents/NRP/BrainSimulation/platform_venv/bin/pip
+ 1315  source bin/activate
+ 1316  pip
+ 1317  deactivate
+ 1318  cd /home/akshay/Documents/NRP/BrainSimulation/platform_venv
+ 1319  source bin/activate
+ 1320  pip
+ 1321  easy_install --upgrade pip
+ 1322  pip install --upgrade pip
+ 1323  deactivate
+ 1324  cd /home/akshay/Documents/NRP/VirtualCoach/platform_venv
+ 1325  source bin/activate
+ 1326  pip
+ 1327  easy_install --upgrade pip
+ 1328  pip install --upgrade pip
+ 1329  source 
+ 1330  deactivate
+ 1331  cd /home/akshay/Documents/NRP/CLE/platform_venv
+ 1332  source bin/activate
+ 1333  pip
+ 1334  easy_install --uppgrade pip
+ 1335  easy_install --upgrade pip
+ 1336  pip install --upgrade pip
+ 1337  cd /home/akshay/Documents/NRP/ExDBackend/platform_venv/bin
+ 1338  deactivate
+ 1339  source bin/activate
+ 1340  source activate
+ 1341  pip
+ 1342  deactivate
+ 1343  cd $HOME
+ 1344  cd $HBP
+ 1345  cd user-scripts/
+ 1346  ./update_nrp build all
+ 1347  cd ..
+ 1348  cd Experiment
+ 1349  ExperimentControl/
+ 1350  cd ExDBackend/
+ 1351  ls
+ 1352  cd platform_venv/
+ 1353  ls
+ 1354  cd ..
+ 1355  cd hbp_nrp_cleserver/
+ 1356  python setup.py egg_info
+ 1357  python setup.py install
+ 1358  sudo python setup.py install
+ 1359  cd ..
+ 1360  make devinstall
+ 1361  ls
+ 1362  python setup.py install --force
+ 1363  python setup.py install
+ 1364  cd hbp_nrp_cleserver
+ 1365  gedit setup.p
+ 1366  ls
+ 1367  gedit setup.py 
+ 1368  from pip.req
+ 1369  pip
+ 1370  ls
+ 1371  gedit README.txt 
+ 1372  gedit setup.py 
+ 1373  pip
+ 1374  gedit setup.py
+ 1375  cd $HOME
+ 1376  pip info
+ 1377  pip
+ 1378  pip help req
+ 1379  pip completion req
+ 1380  pip install --upgrage pip
+ 1381  pip install --upgrade pip
+ 1382  pip --version
+ 1383  sudo pip install -U pip
+ 1384  sudo -H pip2 install --upgrade pip
+ 1385  pip2 -V
+ 1386  apt-cache search pip
+ 1387  apt-cache search pip10
+ 1388  apt-cache search pip-10
+ 1389  apt-cache search pip--9
+ 1390  apt-cache search pip-9
+ 1391  apt-cache search pip9
+ 1392  apt-get 
+ 1393  apt-get upgrade 
+ 1394  apt-get upgrade python-pip
+ 1395  sudo apt-get upgrade python-pip
+ 1396  apt-get info pip
+ 1397  apt-cache search pip
+ 1398  which pip
+ 1399  cd /usr/local/bin/pip
+ 1400  cd /usr/local/bin/
+ 1401  ls
+ 1402  pip2.8
+ 1403  pip2.7
+ 1404  pip2.7 -V
+ 1405  pip download pip
+ 1406  pip install confi
+ 1407  cd $HOME
+ 1408  pip install config
+ 1409  sudo pip install config
+ 1410  pip install req
+ 1411  sudo pip install req
+ 1412  cd /usr/local/bin/
+ 1413  ls
+ 1414  cd pip2.7
+ 1415  sudo easy_install pip
+ 1416  cd /home/akshay/Documents/NRP/ExDBackend/hbp_nrp_cleserver/
+ 1417  sudo make devinstall
+ 1418  cd ..
+ 1419  sudo make devinstall
+ 1420  make devinstall
+ 1421  pip install argparse
+ 1422  pip uninstall pip
+ 1423  sudo pip uninstall pip
+ 1424  pip
+ 1425  pip install --upgrade pip
+ 1426  apt-get
+ 1427  sudo apt-get install python-pi
+ 1428  sudo apt-get install python-pip
+ 1429  pip install pip
+ 1430  sudo apt-get install python-pip
+ 1431  pip -V
+ 1432  sudo apt-get python-pip
+ 1433  sudo apt-get install python-pip
+ 1434  pip
+ 1435  pip -V
+ 1436  pip install --upgrade pip
+ 1437  cd $HBP
+ 1438  cd ExDBackend/
+ 1439  make devinstall
+ 1440  pip uninstall pip
+ 1441  /home/akshay/.local/lib/python2.7/site-packages/pip/
+ 1442  cd /home/akshay/.local/lib/python2.7/site-packages/pip/
+ 1443  ls
+ 1444  touch req.py
+ 1445  ls
+ 1446  rm req.py
+ 1447  ls
+ 1448  cd req/
+ 1449  ls
+ 1450  gedit req_file.py
+ 1451  cd /usr/local/lib/python2.7/dist-packages/
+ 1452  ls
+ 1453  pip -V
+ 1454  mbpfan 
+ 1455  sudo mbpfan
+ 1456  cd $HBP
+ 1457  cd ExDFrontend/
+ 1458  ls
+ 1459  cd ..
+ 1460  cd ExDBackend/hbp_nrp_cleserver/
+ 1461  ls
+ 1462  gedit setup.py
+ 1463  python
+ 1464  ls
+ 1465  python setup.py install
+ 1466  sudo python setup.py install
+ 1467  cd ..
+ 1468  ls
+ 1469  gedit Makefile 
+ 1470  cd platform_venv/
+ 1471  source bin/activate
+ 1472  cd ..
+ 1473  cd hbp_nrp_cleserver/
+ 1474  sudo python setup.py install
+ 1475  which pip
+ 1476  cd ..
+ 1477  deactivate
+ 1478  make devinstall 
+ 1479  cd platform_venv/
+ 1480  source bin/activate
+ 1481  cd ..
+ 1482  cd hbp_nrp_cleserver/
+ 1483  sudo python setup.py egg_info
+ 1484  python setup.py egg_info
+ 1485  cd ..
+ 1486  pip -V
+ 1487  pip install pip
+ 1488  pip
+ 1489  pip install pip=9.0.3
+ 1490  pip install pip==9.0.3
+ 1491  pip uninstall pip
+ 1492  pip -V
+ 1493  easy_install pip==9.0.3
+ 1494  pip -V
+ 1495  cd hbp_nrp_cleserver/
+ 1496  python setup.py egg_info
+ 1497  deactivate
+ 1498  cd ..
+ 1499  make devinstall 
+ 1500  cd platform_venv/lib/python2.7/site-packages/
+ 1501  ls
+ 1502  cd -
+ 1503  make devinstall clean
+ 1504  cd /home/akshay/Documents/NRP/ExDBackend/platform_venv/lib/python2.7/site-packages/
+ 1505  cd platform_venv/lib/python2.7/site-packages/
+ 1506  cd ..
+ 1507  cd ExDBackend/
+ 1508  cd /home/akshay/Documents/NRP/ExDBackend/platform_venv/lib/python2.7
+ 1509  cd /home/akshay/Documents/NRP/ExDBackend/platform_venv/lib/python2.7/
+ 1510  ls
+ 1511  cd hbp_nrp_cleserver/
+ 1512  ls
+ 1513  cd ..
+ 1514  make devinstall 
+ 1515  ls
+ 1516  make devinstall build
+ 1517  python
+ 1518  cd ..
+ 1519  ls
+ 1520  cd ExperimentControl/
+ 1521  make devinstall clean
+ 1522  ls
+ 1523  cd .
+ 1524  cd ..
+ 1525  cd BrainSimulation/
+ 1526  ls
+ 1527  make devinstall clean
+ 1528  ls
+ 1529  cd ..
+ 1530  ls
+ 1531  cd VirtualCoach/
+ 1532  make devinstall clean
+ 1533  ls
+ 1534  cd ..
+ 1535  cd user-scripts/
+ 1536  ./update_nrp build all
+ 1537  cd ..
+ 1538  cd user-scripts/
+ 1539  ls
+ 1540  ./update_nrp clean
+ 1541  ./update_nrp build
+ 1542  ./update_nrp update 
+ 1543  cd /home/akshay/Documents/NRP/ExperimentControl/platform_venv
+ 1544  ls
+ 1545  cd bin
+ 1546  ls
+ 1547  python activate_this.py 
+ 1548  ls
+ 1549  cd ..
+ 1550  ls
+ 1551  cd ..
+ 1552  rm -rf NRP
+ 1553  sudo rm -rf NRP
+ 1554  ls
+ 1555  gedit .bashrc
+ 1556  gedit /.bashrc
+ 1557  gedit $HOME/bashrc
+ 1558  $HOME/.local/
+ 1559  ls
+ 1560  $HOME/.local
+ 1561  cd .local/
+ 1562  ls
+ 1563  cd bin/
+ 1564  ls
+ 1565  cd .local/
+ 1566  ls
+ 1567  cd bin
+ 1568  cd ...
+ 1569  cd ..
+ 1570  cd $HOME
+ 1571  mkdir -p HBP
+ 1572  ls
+ 1573  rm -rf HBP
+ 1574  ls
+ 1575  cd Pictures/
+ 1576  ls
+ 1577  cd ..
+ 1578  mkdir -p $HBP
+ 1579  cd $HBP
+ 1580  git git clone https://bitbucket.org/hbpneurorobotics/user-scripts.git
+ 1581  git clone https://bitbucket.org/hbpneurorobotics/user-scripts.git
+ 1582  cd $HBP/user-scripts
+ 1583  ./clone-all-repos
+ 1584  cd .local/
+ 1585  ls
+ 1586  cd bin
+ 1587  ls
+ 1588  cd ..
+ 1589  which pip
+ 1590  apt-get
+ 1591  apt
+ 1592  pip info
+ 1593  pip
+ 1594  cd /home/akshay/Documents/NRP/user-scripts/
+ 1595  ./configure_nrp 2>dev/null
+ 1596  ./configure_nrp
+ 1597  pip install --upgrade pip
+ 1598  sudo apt-get install python-pip
+ 1599  cd .. 
+ 1600  nrpBackendProxy/
+ 1601  cd nrpBackendProxy/
+ 1602  npm install
+ 1603  cd ..
+ 1604  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+ 1605  nvm install 0.10
+ 1606  nvm install 8
+ 1607  nvm alias default 8
+ 1608  npm install -g bower
+ 1609  cd $HBP/user-scripts
+ 1610  ./configure_nrp
+ 1611  cd $HBP # your NRP directory
+ 1612  cd $HBP
+ 1613  cd $HBP/user-scripts
+ 1614  cd ExDFrontend
+ 1615  cd ..
+ 1616  cd ExDFrontend
+ 1617  sudo apt-get install ruby-compass
+ 1618  sudo gem install compass
+ 1619  npm install -g grunt-cli
+ 1620  npm install -g grunt
+ 1621  cd $HBP/user-scripts
+ 1622  ./configure_nrp
+ 1623  ./update_nrp build all
+ 1624  cd ~/.opt/platform_venv/
+ 1625  source bin/actiavte
+ 1626  source bin/activate
+ 1627  pip -V
+ 1628  deactivate
+ 1629  cd /home/akshay/Documents/NRP/ExperimentControl/platform_venv/bin/pip
+ 1630  cd /home/akshay/Documents/NRP/ExperimentControl/platform_venv/bin
+ 1631  source activate
+ 1632  pip -V
+ 1633  ll
+ 1634  gedit python-config
+ 1635  gedit pip
+ 1636  sudo mbpfan
+ 1637  sudo mbpfan
+ 1638  cd $HBP
+ 1639  cd MUSIC/
+ 1640  ll
+ 1641  cd ..
+ 1642  LL
+ 1643  ll
+ 1644  cd nest-simulator/
+ 1645  ll
+ 1646  cd $HBP
+ 1647  cd ExperimentControl/
+ 1648  cd platform_venv/
+ 1649  source bin/activate
+ 1650  pip -Version
+ 1651  which pip
+ 1652  cd lib
+ 1653  ll
+ 1654  cd python2.7/
+ 1655  ls
+ 1656  l
+ 1657  ll
+ 1658  cd ..
+ 1659  which pip
+ 1660  cd ..
+ 1661  cd bin
+ 1662  ls
+ 1663  pip uninstall pip
+ 1664  easy_install pip
+ 1665  pip show
+ 1666  cd .. 
+ 1667  cd lib
+ 1668  ll
+ 1669  cd python2.7/
+ 1670  ls
+ 1671  cd ..
+ 1672  ls
+ 1673  cd ..
+ 1674  ls
+ 1675  pip lib
+ 1676  cd lib
+ 1677  cd python2.7/
+ 1678  l
+ 1679  cd site-packages/
+ 1680  ll
+ 1681  cd pip/
+ 1682  ll
+ 1683  cd _internal/
+ 1684  ls
+ 1685  ll
+ 1686  gedit configuration.py
+ 1687  pip
+ 1688  easy_install pip
+ 1689  pip
+ 1690  deactivate 
+ 1691  cd $NRP/
+ 1692  cd $NRP_
+ 1693  cd $HBP
+ 1694  cd user-scripts/
+ 1695  ./update_nrp update all
+ 1696  cd ..
+ 1697  cd BrainSimulation/
+ 1698  cd platform_venv/
+ 1699  cd bin/
+ 1700  source activate
+ 1701  easy_install pip
+ 1702  cd ..
+ 1703  pip
+ 1704  easy_install pip
+ 1705  pip install --upgrade 9.0.3
+ 1706  pip install --upgrade ipi
+ 1707  pip install --upgrade pip
+ 1708  pip uninstall pip
+ 1709  easy_install pip
+ 1710  deactivate
+ 1711  cd .
+ 1712  cd ..
+ 1713  ll
+ 1714  cd brainvisualizer/
+ 1715  cd ..
+ 1716  cd ExDBackend/
+ 1717  ls
+ 1718  ll
+ 1719  cd hbp_nrp_backend/
+ 1720  ll
+ 1721  cd hbp_nrp_backend/
+ 1722  ls
+ 1723  ll
+ 1724  cd ..
+ 1725  cd BrainSimulation/
+ 1726  make devinstall
+ 1727  cd platform_venv/
+ 1728  cd bin/
+ 1729  source activate
+ 1730  pip which
+ 1731  which pi
+ 1732  which pip
+ 1733  pip -Ve
+ 1734  pip -V
+ 1735  pip install --upgrade pip==1.4.1
+ 1736  deactivate 
+ 1737  ls
+ 1738  ll
+ 1739  cd ..
+ 1740  cd user-scripts/
+ 1741  ./update_nrp build
+ 1742  cd ..
+ 1743  cd SlurmClusterMonitor/
+ 1744  make devinstall
+ 1745  cd ..
+ 1746  cd ExDBackend/
+ 1747  make devinstall
+ 1748  cd platform_venv/
+ 1749  source bin/activate
+ 1750  pip uninstall pip
+ 1751  easy_install pip
+ 1752  pip uninstall pip
+ 1753  easy_installpip
+ 1754  easy_install pi
+ 1755  easy_install pip
+ 1756  pip uninstall pi
+ 1757  deactivate
+ 1758  cd ..
+ 1759  cd CLE/
+ 1760  make devinstall
+ 1761  pip install --upgrade virtualenv
+ 1762  apt
+ 1763  apt show virtualenv
+ 1764  apt show python-virtualenv
+ 1765  sudo apt-get python-virtualenv
+ 1766  sudo apt-get install  python-virtualenv
+ 1767  sudo apt-get remove python-virtualenv 
+ 1768  apt show virtualenv
+ 1769  sudo apt-get remove virtualenv
+ 1770  pip uninstall virtualenv
+ 1771  sudo pip uninstall virtualenv
+ 1772  sudo apt-get install --upgrade python-virtualenv
+ 1773  make devinstall
+ 1774  cd ..
+ 1775  ll
+ 1776  cd MUSIC/
+ 1777  make devinstall
+ 1778  cd ..
+ 1779  cd ExDBackend 
+ 1780  make devinstall
+ 1781  cd ..
+ 1782  cd ExDFrontend/
+ 1783  make devinstall
+ 1784  cd ..
+ 1785  cd user-scripts/
+ 1786  ./configure_nrp 
+ 1787  cd ..
+ 1788  cd user-scripts/
+ 1789  ./upgrade_nrp build 
+ 1790  ./update_nrp build 
+ 1791  cd .. 
+ 1792  cd CLE/platform_venv/bin/
+ 1793  source activate
+ 1794  pip
+ 1795  easy_install pip
+ 1796  cd ..
+ 1797  easy_install pip
+ 1798  pip uninstall pi
+ 1799  pip uninstall pip
+ 1800  easy_install pip
+ 1801  deactivate
+ 1802  cd ..
+ 1803  cd .
+ 1804  cd ..
+ 1805  cd ExDBackend/
+ 1806  make devinstall
+ 1807  cd ..
+ 1808  cd brainvisualizer/
+ 1809  cd ..
+ 1810  cd user-scripts/
+ 1811  ./update_nrp build all
+ 1812  cd $HBP
+ 1813  ls
+ 1814  l
+ 1815  ll
+ 1816  cd nrpBackendProxy/
+ 1817  ls
+ 1818  cd ..
+ 1819  cd GazeboRosPackages/
+ 1820  cd ..
+ 1821  cd ExDFrontend/
+ 1822  ll
+ 1823  cd .
+ 1824  cd ..
+ 1825  cd ExDBackend/
+ 1826  ll
+ 1827  cd hbp_nrp_cleserver/
+ 1828  ls
+ 1829  cd ..
+ 1830  cd VirtualCoach/
+ 1831  cd platform_venv/bin/
+ 1832  source activate
+ 1833  easy_install pip
+ 1834  cd ..
+ 1835  easy_install pip
+ 1836  pip uninstall pip
+ 1837  easy_install pip
+ 1838  cd $NRP
+ 1839  cd $HBO
+ 1840  cd $HBP
+ 1841  ls
+ 1842  cd nest-simulator/
+ 1843  ll
+ 1844  cd ..
+ 1845  ll
+ 1846  cd MUSIC/
+ 1847  ls
+ 1848  cd ..
+ 1849  cd SlurmClusterMonitor/
+ 1850  ll
+ 1851  cd ..
+ 1852  ll
+ 1853  deactivate
+ 1854  cd user-scripts/
+ 1855  gedit update_nrp 
+ 1856  cd $HBP
+ 1857  mbpfan
+ 1858  sudo mbpfan
+ 1859  ll
+ 1860  virtualenv
+ 1861  virtualenv --python=python2.7 --system-site-packages roBauss
+ 1862  ll
+ 1863  cd roBauss/
+ 1864  git clone https://github.com/ppwwyyxx/speaker-recognition
+ 1865  pip install scikit-learn scikits-talkbox pyssp pyqt4 pyaudio
+ 1866  pip install --upgrade pip
+ 1867  sudo pip install --upgrade pip
+ 1868  pip install scikits.talkbox
+ 1869  pip
+ 1870  pip uninstall scikit-learn
+ 1871  easy_install pip
+ 1872  source bin/activate
+ 1873  pip install scikit-learn
+ 1874  deactivate
+ 1875  cd ..
+ 1876  rm -rf roBauss/
+ 1877  pip
+ 1878  pip -Version
+ 1879  pip -V
+ 1880  virtualenv roBauss
+ 1881  source roBauss/bin/activate
+ 1882  pip 
+ 1883  pip -V
+ 1884  pip install scikit-learn
+ 1885  pip install scikits.talkbox
+ 1886  pip install numpy scikits.talkbox
+ 1887  pip install pystan
+ 1888  pip install numpy scikits.talkbox
+ 1889  pip install pyssp
+ 1890  pip install pyqt4
+ 1891  pip install pyQt4
+ 1892  sudo apt-get install python-qt4
+ 1893  pip install pyQt4
+ 1894  pip install pyaudio
+ 1895  brew install portaudio
+ 1896  supo apt install linuxbrew-wrapper
+ 1897  sudo apt install linuxbrew-wrapper
+ 1898  sudo mbpfan
+ 1899  gedit ./bashrc
+ 1900  locate bashrc
+ 1901  geedit /home/akshay/.bashrc
+ 1902  gedit /home/akshay/.bashrc
+ 1903  source ~/.bashrc
+ 1904  gedit /home/akshay/.bashrc
+ 1905  source ~/.bashrc
+ 1906  cd roBauss/
+ 1907  source bin/activate
+ 1908  brew install portaudio
+ 1909  cd roBauss/
+ 1910  source bin/activate
+ 1911  brew 
+ 1912  brew update
+ 1913  brew
+ 1914  brew update
+ 1915  sudo mbpfan
+ 1916  brew update
+ 1917  ll
+ 1918  cd roBauss/
+ 1919  source bin/activate
+ 1920  brew update
+ 1921  brew install portaudio
+ 1922  pip install pyaudiop
+ 1923  pip install pyaudio
+ 1924  cd lib/
+ 1925  ls
+ 1926  cd python2.7/
+ 1927  ll
+ 1928  rm no-global-site-packages.txt 
+ 1929  pip install pyaudio
+ 1930  cd ..
+ 1931  brew
+ 1932  brew info portaudio
+ 1933  sudo apt-get install pkg-config
+ 1934  apt-show pkg-config
+ 1935  sudo apt-info pkg-config
+ 1936  sudo apt-cache pkg-config
+ 1937  sudo apt
+ 1938  brew install pkg-config
+ 1939  pip install pyaudio
+ 1940  cd lib/python2.7/
+ 1941  ls
+ 1942  cd ..
+ 1943  pip install --global-option='build_ext' --global-option='-I/usr/local/include' --global-option='-L/usr/local/lib' pyaudio
+ 1944  locate portaudio
+ 1945  brew link portaudio
+ 1946  brew unlink portaudio && brew link portaudio
+ 1947  pip install pyaudio
+ 1948  sudo brew link portaudio 
+ 1949  cd roBauss/
+ 1950  source bin/activate
+ 1951  cd lib/python2.7/
+ 1952  ll
+ 1953  pip install pyaudio
+ 1954  pip install click
+ 1955  pip install --user bob.extension bob.blitz bob.core bob.sp bob.ap
+ 1956  pip install bob
+ 1957  cd ..
+ 1958  sudo apt-get install libblitz0-dev
+ 1959  pip install bob
+ 1960  sudo apt-get install libblitz0-dev
+ 1961  pip install nose
+ 1962  pip install --update bob
+ 1963  pip remove bob
+ 1964  pip uninstall bob
+ 1965  ll
+ 1966  git clone https://github.com/ppwwyyxx/speaker-recognition 
+ 1967  ll
+ 1968  cd speaker-recognition/
+ 1969  cd src/
+ 1970  ls
+ 1971  ./speaker-recognition.py -t enroll -i "../traindata/akshay ../traindata/jonas ../traindata/ozan*" -m model.out
+ 1972  ./speaker-recognition.py -t predict -i "../test/*.wav" -m model.out
+ 1973  cd ..
+ 1974  git clone https://github.com/ak096/roboy_speech_recognition.git
+ 1975  cd roboy_speech_recognition/
+ 1976  ls
+ 1977  pip install -r requirements.txt 
+ 1978  ros
+ 1979  pip list
+ 1980  cd ..
+ 1981  ls
+ 1982  mkdir src
+ 1983  rm -rf src/
+ 1984  cd ..
+ 1985  mkdir hackroboy/src -p
+ 1986  mv roBauss/ hackroboy/src/
+ 1987  cd hackroboy/
+ 1988  ls
+ 1989  catkin_make
+ 1990  cd src/
+ 1991  ls
+ 1992  git clone https://github.com/Roboy/roboy_communication.git
+ 1993  cd ..
+ 1994  catkin_make
+ 1995  source devel/setup.bash 
+ 1996  roslaunch roboy_speech_recognition speech_recognition.launch 
+ 1997  roscd roboy_speech_recognition/
+ 1998  ls
+ 1999  cd ..
+ 2000  ls
+ 2001  pip install -r requirements.txt 
+ 2002  roslaunch roboy_speech_recognition speech_recognition.launch 
+ 2003  sudo pip install -r requirements.txt 
+ 2004  roslaunch roboy_speech_recognition speech_recognition.launch 
+ 2005  sudo apt install python-pyaudio
+ 2006  roslaunch roboy_speech_recognition speech_recognition.launch 
+ 2007  history
+ 2008  cd roboy_speech_recognition/
+ 2009  ls
+ 2010  cd scripts/
+ 2011  ls
+ 2012  python stt_server.py 
+ 2013  roscore&
+ 2014  python stt_server.py 
+ 2015  exit()
+ 2016  history -> cmd_hist.out
+ 2017  history
+ 2018  history > cmd_hist_ros
